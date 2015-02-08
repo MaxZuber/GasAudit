@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gasauditModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblGasTrends">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Preasure" Type="Decimal" Precision="5" Scale="3" Nullable="false" />
+    <Property Name="Flow" Type="Decimal" Precision="5" Scale="3" Nullable="false" />
+    <Property Name="Temperature" Type="Decimal" Precision="5" Scale="3" Nullable="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="GasAuditEntities_Web" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblGasTrends" EntityType="Self.tblGasTrends" />
+  </EntityContainer>
+</Schema>

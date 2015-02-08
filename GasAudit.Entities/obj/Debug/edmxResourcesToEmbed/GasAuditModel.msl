@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="gasauditModelStoreContainer" CdmEntityContainer="GasAuditEntities_Web">
+    <EntitySetMapping Name="tblGasTrends">
+      <EntityTypeMapping TypeName="gasauditModel.tblGasTrends">
+        <MappingFragment StoreEntitySet="tblGasTrends">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Preasure" ColumnName="Preasure" />
+          <ScalarProperty Name="Flow" ColumnName="Flow" />
+          <ScalarProperty Name="Temperature" ColumnName="Temperature" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

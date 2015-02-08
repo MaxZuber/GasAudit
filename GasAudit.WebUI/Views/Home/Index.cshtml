@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+@{
+    string[] log = ViewBag.Log;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+
+        @foreach(string rec in log)
+        {
+            <p>@rec</p>      
+        }
+        
+    </div>
+</body>
+</html>

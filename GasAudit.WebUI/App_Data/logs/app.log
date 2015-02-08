@@ -1,0 +1,4 @@
+2015-02-01 16:45:15.1770|INFO|GasAudit.WebUI.MvcApplication|Application Start
+2015-02-01 16:49:39.9370|INFO|GasAudit.WebUI.MvcApplication|Application Start
+2015-02-01 16:52:49.8000|INFO|GasAudit.WebUI.MvcApplication|Application Start
+2015-02-01 17:15:00.0200|INFO|GasAudit.WebUI.Controllers.GasAuditController|Send all trends to user : ::1

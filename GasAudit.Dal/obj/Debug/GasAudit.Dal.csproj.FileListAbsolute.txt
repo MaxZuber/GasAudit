@@ -1,0 +1,11 @@
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\GasAudit.Dal.dll
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\GasAudit.Dal.pdb
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\EntityFramework.dll
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\GasAudit.Entities.dll
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\EntityFramework.xml
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\GasAudit.Entities.pdb
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\obj\Debug\GasAudit.Dal.csprojResolveAssemblyReference.cache
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\obj\Debug\GasAudit.Dal.dll
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\obj\Debug\GasAudit.Dal.pdb
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP\MVC\GasAudit\GasAudit.Dal\bin\Debug\EntityFramework.SqlServer.xml

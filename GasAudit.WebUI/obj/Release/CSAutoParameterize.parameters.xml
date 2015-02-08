@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GasAuditEntities_Web-Web.config Connection String" description="GasAuditEntities_Web Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/GasAuditModel.csdl|res://*/GasAuditModel.ssdl|res://*/GasAuditModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=mssql1.gear.host;initial catalog=gasaudit;persist security info=True;user id=gasaudit;password=_samuraj15;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Programming\\ASP\\MVC\\GasAudit\\GasAudit\.WebUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GasAuditEntities_Web']/@connectionString" />
+  </parameter>
+</parameters>
